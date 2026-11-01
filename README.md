@@ -5,8 +5,11 @@ I'm a Frontend Developer passionate about building responsive, user-friendly web
 🚀 What I'm Working On
 
 🔐 SecureFin — Building a personal finance web application using React, with a focus on responsive design, reusable components, and intuitive user interfaces.
+
 💻 Frontend Development — Strengthening my JavaScript and React skills through practical projects.
+
 ⚙️ Backend Development — Learning Node.js, Express, MongoDB, and authentication fundamentals.
+
 ☁️ Cloud & Cybersecurity — Studying cybersecurity fundamentals as I work towards my long-term goal of becoming a Cloud Security Engineer.
 
 🛠️ Technologies
